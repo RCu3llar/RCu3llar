@@ -20,12 +20,15 @@ Apasionado por la resiliencia, la automatización y la ingeniería del caos en e
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white)  
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?logo=amazon-aws&logoColor=white)  
+
 
 **Observabilidad & Resiliencia:**  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) 
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=white) 
 ![Chaos Mesh](https://img.shields.io/badge/Chaos%20Mesh-7F3FBF?logo=kubernetes&logoColor=white)  
+
 
 ---
 
@@ -41,6 +44,7 @@ Apasionado por la resiliencia, la automatización y la ingeniería del caos en e
 
 🔬 [**Chaos Engineering en RabbitMQ**](#) – resiliencia de microservicios con **Chaos Mesh**.  
 🛠️ [**Error Budget Dashboard**](#) – visualización de SLOs y presupuestos de error.  
+☁️ [**Infraestructura como Código con CloudFormation**](#) – automatización de despliegues en AWS usando **IaC**.  
 ☁️ [**AWS Lambda + Azure DevOps**](#) – integración multi-cloud para reportes de continuidad.  
 
 ---
