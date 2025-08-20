@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola! Soy Rubinstein Cuéllar 👋  
 
-<!--
-**RCu3llar/RCu3llar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **SRE | Cloud Engineer | Chaos Engineering Enthusiast** 🌩️ con experiencia en **AWS, Kubernetes, Azure DevOps y resiliencia en sistemas distribuidos**.  
+Me gusta diseñar, automatizar y probar la **resiliencia** de aplicaciones Cloud-Native.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack  
+- 🐍 Python | ☕ Java | 🐹 Go | ⚡ TypeScript  
+- ☁️ AWS (Lambda, DynamoDB, S3, FIS) | Kubernetes | Azure DevOps  
+- 📊 Observabilidad: Prometheus | Grafana | Dynatrace  
+- 🔐 Seguridad y automatización con GitHub Actions, CI/CD  
+
+---
+
+## 📈 GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=RCu3llar&show_icons=true&theme=tokyonight)  
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RCu3llar&theme=tokyonight)  
+
+---
+
+## 🌩️ Proyectos Destacados  
+- 🔬 **Chaos Engineering en RabbitMQ** → resiliencia de microservicios con **Chaos Mesh**.  
+- 🛠️ **Error Budget Dashboard** → visualización de SLOs y presupuestos de error.  
+- ☁️ **AWS Lambda + Azure DevOps** → integración multi-cloud para reportes de continuidad.  
+
+---
+
+## 🌍 Conecta conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubinstein-cuellar/)  
