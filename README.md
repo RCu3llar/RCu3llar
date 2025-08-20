@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rubinstein%20Cuéllar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rubinstein%20Cuellar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 # 👋 ¡Hola! Soy Rubinstein Cuellar  
 
