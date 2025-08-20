@@ -53,7 +53,7 @@ Apasionado por la resiliencia, la automatización y la ingeniería del caos en e
 ---
 
 <!-- Snake animation -->
-![Snake animation](https://github.com/RCu3llar/RCu3llar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RCu3llar/RCu3llar/blob/output/snake.svg)
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
